@@ -1,3 +1,3 @@
 # Welcome to my E-Portfolio!
-# About: [/About]
+# [About:] (About)
 
