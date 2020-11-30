@@ -10,4 +10,10 @@ Graduated with Master of Information technology from Flinders University and cur
 * Apr 2013 – Apr 2016:                 Bachelor of Science       
                                        DGC, Punjab, INDIA
 
-
+## Skills:
+* Experience of Microsoft Office 365, Google slides, Canva, Prezi                               
+* Microsoft Visual Studio, Rational Rose (UML diagramming), Photoshop           
+* Basic understanding of operating system: Unix and Linux 
+* Using communication platforms
+* Data Entry 
+* Data visualisation
