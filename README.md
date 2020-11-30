@@ -20,7 +20,7 @@ Graduated with Master of Information technology from Flinders University and cur
 
 ## Employment History:
 
-Aug 2018-Present Care Worker (Helping Hand Aged Care)
+Aug 2018-Present: Care Worker (Helping Hand Aged Care)
 North Adelaide, South Australia
 
 * Carrying out nursing plans in accordance to instructions
