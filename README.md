@@ -3,7 +3,7 @@
 ## Amanpreet Kaur
 Graduated with Master of Information technology from Flinders University and currently pursuing Professional Year from Navitas. I have experience of using Microsoft office 365, Google slides and connecting people by using different communication platforms. I believe in constant learning and enjoy working with people to gain different perspectives.
 #### Resume
-**https://github.com/Amansanghera/amanpreet.github.io/blob/main/Resume.pdf**
+https://github.com/Amansanghera/amanpreet.github.io/blob/main/Resume.pdf
 ## Education:
 * April 2020 – Mar 2020(expected):     Professional Year Program                                                             
                                        Navitas Professional Adelaide, South Australia           
