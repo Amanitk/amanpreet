@@ -29,3 +29,6 @@ North Adelaide, South Australia
 * Providing residents with both physical and mental stimulation
 * Assisting in the implementation of treatment and care plans
 * Recording residents’ observations accurately and report any issues of concern
+
+[Meeting Tips.pdf](https://github.com/Amansanghera/amanpreet.github.io/files/5613905/Meeting.Tips.pdf)
+
