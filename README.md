@@ -7,12 +7,12 @@ Graduated with Master of Information technology from Flinders University and cur
 ## Resume
 [Resume.pdf](https://github.com/Amansanghera/amanpreet.github.io/files/5613913/Resume.pdf)
 ## Education:
-[Education](https://github.com/Amansanghera/amanpreet.github.io/wiki/Education)
+
 ## Skills:
-[Skills](https://github.com/Amansanghera/amanpreet.github.io/wiki/Skills)
+
 
 ## Employment History:
-[Employment History](https://github.com/Amansanghera/amanpreet.github.io/wiki/Employment-History)
+
 
 ## Posts
 
