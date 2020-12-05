@@ -13,7 +13,7 @@ Graduated with Master of Information technology from Flinders University and cur
 ## Employment History:
 [Employment History](https://github.com/Amansanghera/amanpreet.github.io/wiki/Employment-History)
 
-# Posts
+## Posts
 ### 1. Art of Innovation
 See [Art of Innovation](https://github.com/Amansanghera/amanpreet.github.io/wiki/Art-of-Innovation).
 
