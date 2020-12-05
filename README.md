@@ -17,7 +17,12 @@ Flinders University, South Australia
 DGC, Punjab, INDIA
 
 ## Skills:
-
+* Experience of Microsoft Office 365, Google slides, Canva, Prezi
+* Microsoft Visual Studio, Rational Rose (UML diagramming), Photoshop
+* Basic understanding of operating system: Unix and Linux
+* Using communication platforms
+* Data Entry
+* Data visualisation
 
 ## Employment History:
 Aug 2018-Present: Care Worker (Helping Hand Aged Care) <br>
