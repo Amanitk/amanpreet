@@ -6,13 +6,7 @@ Graduated with Master of Information technology from Flinders University and cur
 ## Resume
 [Resume.pdf](https://github.com/Amansanghera/amanpreet.github.io/files/5613913/Resume.pdf)
 ## Education:
-* April 2020 – Mar 2020(expected):     Professional Year Program                                                             
-                                       Navitas Professional Adelaide, South Australia           
-* Feb 2018 – Mar 2020:                 Master of Information Technology                                                              
-                                       Flinders University, South Australia  
-* Apr 2013 – Apr 2016:                 Bachelor of Science       
-                                       DGC, Punjab, INDIA
-
+[Education wiki page](https://github.com/Amansanghera/amanpreet.github.io/wiki/Education)
 ## Skills:
 * Experience of Microsoft Office 365, Google slides, Canva, Prezi                               
 * Microsoft Visual Studio, Rational Rose (UML diagramming), Photoshop           
