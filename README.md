@@ -26,6 +26,6 @@ See [Reflect on the promotional strategies the company uses to market coffee pro
 ## How to reach me..
 8 Vasey Street, Greenacres <br>
 Adelaide, 5086 <br>
-SA 
+SA <br>
 amanp4969@gmail.com <br>
 0469 013 246
