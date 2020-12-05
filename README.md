@@ -36,10 +36,10 @@ North Adelaide, South Australia
 
 ## Posts
 
-1. [Art of Innovation](https://github.com/Amansanghera/amanpreet.github.io/wiki/Art-of-Innovation).
+1. [Art of Innovation](https://github.com/Amansanghera/amanpreet.github.io/wiki/Art-of-Innovation)
 
 
-2. [Reflect on the promotional strategies the company uses to market coffee product](https://github.com/Amansanghera/amanpreet.github.io/wiki/Reflect-on-the-promotional-strategies-the-company-uses-to-market-coffee-product).
+2. [Reflect on the promotional strategies the company uses to market coffee product](https://github.com/Amansanghera/amanpreet.github.io/wiki/Reflect-on-the-promotional-strategies-the-company-uses-to-market-coffee-product)
 
 ## Infographic on Meeting tips
 [Meeting Tips.pdf](https://github.com/Amansanghera/amanpreet.github.io/files/5613905/Meeting.Tips.pdf)
