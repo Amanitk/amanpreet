@@ -44,9 +44,5 @@ North Adelaide, South Australia
 ## Infographic on Meeting tips
 [Meeting Tips.pdf](https://github.com/Amansanghera/amanpreet.github.io/files/5613905/Meeting.Tips.pdf)
 
-## How to reach me..
-8 Vasey Street, Greenacres <br>
-Adelaide, 5086 <br>
-SA <br>
-amanp4969@gmail.com <br>
-0469 013 246
+## Contact
+[How to reach me](https://github.com/Amansanghera/amanpreet.github.io/wiki/How-to-reach-me:)
