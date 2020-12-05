@@ -8,12 +8,7 @@ Graduated with Master of Information technology from Flinders University and cur
 ## Education:
 [Education wiki page](https://github.com/Amansanghera/amanpreet.github.io/wiki/Education)
 ## Skills:
-* Experience of Microsoft Office 365, Google slides, Canva, Prezi                               
-* Microsoft Visual Studio, Rational Rose (UML diagramming), Photoshop           
-* Basic understanding of operating system: Unix and Linux 
-* Using communication platforms
-* Data Entry 
-* Data visualisation
+[Skills wiki page](https://github.com/Amansanghera/amanpreet.github.io/wiki/Skills)
 
 ## Employment History:
 
