@@ -1,5 +1,5 @@
 # Welcome to my E-Portfolio!
-<p align="center">
+
 ![Aman](https://user-images.githubusercontent.com/48699383/101241672-36b5f700-3748-11eb-9c08-ca92a130fd0e.jpg) {:height="50px" width="50px"}
 
 ## Amanpreet Kaur
