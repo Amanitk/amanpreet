@@ -45,4 +45,4 @@ North Adelaide, South Australia
 [Meeting Tips.pdf](https://github.com/Amansanghera/amanpreet.github.io/files/5613905/Meeting.Tips.pdf)
 
 ## Contact
-[How to reach me](https://github.com/Amansanghera/amanpreet.github.io/wiki/How-to-reach-me:)
+[Click here to reach me](https://github.com/Amansanghera/amanpreet.github.io/wiki/How-to-reach-me:)
