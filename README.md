@@ -13,11 +13,12 @@ Graduated with Master of Information technology from Flinders University and cur
 ## Employment History:
 [Employment History](https://github.com/Amansanghera/amanpreet.github.io/wiki/Employment-History)
 
-## Infographic on Meeting tips
-[Meeting Tips.pdf](https://github.com/Amansanghera/amanpreet.github.io/files/5613905/Meeting.Tips.pdf)
-
+# Posts
 ## Art of Innovation
-See [Art of Innovation wiki page](https://github.com/Amansanghera/amanpreet.github.io/wiki/Art-of-Innovation).
+See [Art of Innovation](https://github.com/Amansanghera/amanpreet.github.io/wiki/Art-of-Innovation).
 
 ## Reflect on the promotional strategies the company uses to market coffee product
-See [Reflect on the promotional strategies the company uses to market coffee product wiki page](https://github.com/Amansanghera/amanpreet.github.io/wiki/Reflect-on-the-promotional-strategies-the-company-uses-to-market-coffee-product).
+See [Reflect on the promotional strategies the company uses to market coffee product](https://github.com/Amansanghera/amanpreet.github.io/wiki/Reflect-on-the-promotional-strategies-the-company-uses-to-market-coffee-product).
+
+## Infographic on Meeting tips
+[Meeting Tips.pdf](https://github.com/Amansanghera/amanpreet.github.io/files/5613905/Meeting.Tips.pdf)
