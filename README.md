@@ -38,3 +38,4 @@ North Adelaide, South Australia
 See [Art of Innovation wiki page](https://github.com/Amansanghera/amanpreet.github.io/wiki/Art-of-Innovation).
 
 ##
+See (https://github.com/Amansanghera/amanpreet.github.io/wiki/Reflect-on-the-promotional-strategies-the-company-uses-to-market-coffee-product).
