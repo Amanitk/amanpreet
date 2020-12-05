@@ -24,8 +24,8 @@ See [Reflect on the promotional strategies the company uses to market coffee pro
 [Meeting Tips.pdf](https://github.com/Amansanghera/amanpreet.github.io/files/5613905/Meeting.Tips.pdf)
 
 ## How to reach me..
-8 Vasey Street, Greenacres
-Adelaide, <br> 
-5086 SA <br>
+8 Vasey Street, Greenacres <br>
+Adelaide, 5086 <br>
+SA 
 amanp4969@gmail.com <br>
 0469 013 246
