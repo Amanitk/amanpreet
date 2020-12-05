@@ -35,5 +35,5 @@ North Adelaide, South Australia
 [Meeting Tips.pdf](https://github.com/Amansanghera/amanpreet.github.io/files/5613905/Meeting.Tips.pdf)
 
 ## Art of Innovation
-See the [Art of Innovation page] (https://github.com/Amansanghera/amanpreet.github.io.wiki.git/Art of Innovation)
+https://github.com/Amansanghera/amanpreet.github.io.wiki.git
 
