@@ -11,14 +11,7 @@ Graduated with Master of Information technology from Flinders University and cur
 [Skills wiki page](https://github.com/Amansanghera/amanpreet.github.io/wiki/Skills)
 
 ## Employment History:
-
-Aug 2018-Present: Care Worker (Helping Hand Aged Care)
-North Adelaide, South Australia
-
-* Carrying out nursing plans in accordance to instructions
-* Providing residents with both physical and mental stimulation
-* Assisting in the implementation of treatment and care plans
-* Recording residents’ observations accurately and report any issues of concern
+[Employment History](https://github.com/Amansanghera/amanpreet.github.io/wiki/Employment-History)
 
 ## Infographic on Meeting tips
 [Meeting Tips.pdf](https://github.com/Amansanghera/amanpreet.github.io/files/5613905/Meeting.Tips.pdf)
