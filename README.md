@@ -1,5 +1,6 @@
 # Welcome to my E-Portfolio!
-![image](https://lh3.googleusercontent.com/MShgyMpBTjMsIHQ2xMnDWD2VqBFZyzT4Z9cIqVTJWPA1wvi0rNj_6ZlUywWoIi31sLu2uLY=s106)
+![Aman](https://user-images.githubusercontent.com/48699383/101231103-ecf1f000-36f8-11eb-9cac-1988a5dd4807.jpg)
+
 ## Amanpreet Kaur
 Graduated with Master of Information technology from Flinders University and currently pursuing Professional Year from Navitas. I have experience of using Microsoft office 365, Google slides and connecting people by using different communication platforms. I believe in constant learning and enjoy working with people to gain different perspectives.
 ## Resume
