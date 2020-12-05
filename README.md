@@ -20,6 +20,13 @@ DGC, Punjab, INDIA
 
 
 ## Employment History:
+Aug 2018-Present: Care Worker (Helping Hand Aged Care) <br>
+North Adelaide, South Australia
+
+* Carrying out nursing plans in accordance to instructions
+* Providing residents with both physical and mental stimulation
+* Assisting in the implementation of treatment and care plans
+* Recording residents’ observations accurately and report any issues of concern
 
 
 ## Posts
