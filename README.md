@@ -7,6 +7,10 @@ Graduated with Master of Information technology from Flinders University and cur
 
 ## Resume
 [Resume.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amansanghera/amanpreet/main/Resume.pdf)
+![1](https://user-images.githubusercontent.com/48699383/101279238-d50d8f80-3810-11eb-9fab-11a59ce489a1.PNG)
+![2](https://user-images.githubusercontent.com/48699383/101279252-ece51380-3810-11eb-8f9f-0206285b6a8c.PNG)
+![3](https://user-images.githubusercontent.com/48699383/101279254-f0789a80-3810-11eb-8207-b78eed75676c.PNG)
+![4](https://user-images.githubusercontent.com/48699383/101279256-f40c2180-3810-11eb-8cfc-b2168fc8d633.PNG)
 
 ## Education:
 * April 2020 – Mar 2020(expected): Professional Year Program <br>
