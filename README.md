@@ -35,7 +35,7 @@ DGC, Punjab, INDIA
 * Data Entry
 
 * Data visualisation
-### Soft Skills
+### Soft Skills:
 * Communication Skills
 
 * Teamwork
