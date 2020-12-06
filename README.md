@@ -7,6 +7,7 @@ Graduated with Master of Information technology from Flinders University and cur
 
 ## Resume
 [Resume.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amansanghera/amanpreet/main/Resume.pdf)
+
 ## Education:
 * April 2020 – Mar 2020(expected): Professional Year Program <br>
 Navitas Professional Adelaide, South Australia
