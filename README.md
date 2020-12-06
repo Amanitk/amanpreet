@@ -44,8 +44,7 @@ North Adelaide, South Australia
 ## Infographic on Meeting tips
 [Meeting Tips.pdf](https://github.com/Amansanghera/amanpreet.github.io/files/5613905/Meeting.Tips.pdf)
 
-## Video
-[Video](https://github.com/Amansanghera/amanpreet/blob/main/zoom_0.mp4)
+
 
 ## Contact
 [Click here to reach me](https://github.com/Amansanghera/amanpreet.github.io/wiki/How-to-reach-me:)
