@@ -6,7 +6,7 @@
 Graduated with Master of Information technology from Flinders University and currently pursuing Professional Year from Navitas. I have experience of using Microsoft office 365, Google slides and connecting people by using different communication platforms. I believe in constant learning and enjoy working with people to gain different perspectives.
 
 ## Resume
-[Resume.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/https://github.com/Amansanghera/amanpreet/blob/main/Resume.pdf)
+[Resume.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amansanghera/amanpreet/blob/main/Resume.pdf)
 ## Education:
 * April 2020 – Mar 2020(expected): Professional Year Program <br>
 Navitas Professional Adelaide, South Australia
