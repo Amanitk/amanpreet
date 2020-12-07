@@ -97,27 +97,27 @@ amanp4969@gmail.com <br>
         height: 40px;
         padding: 10px;
         border: 3px dashed #8ebf42;
-        background-color: #d0e2bc;
+        background-color: white;
         font: 1.1em/1.4em cursive;
-        color: #095484;
+        color: black;
       }
       .email{
       width: 20%;
         height: 40px;
         padding: 10px;
         border: 3px dashed #8ebf42;
-        background-color: #d0e2bc;
+        background-color: white;
         font: 1.1em/1.4em cursive;
-        color: #095484;
+        color: black;
       }
       .message{
         width: 40%;
         height: 100px;
         padding: 10px;
         border: 3px dashed #8ebf42;
-        background-color: #d0e2bc;
+        background-color: white;
         font: 1.4em/1.6em cursive;
-        color: #095484;
+        color: black;
       }
     </style>
 <form
