@@ -87,10 +87,45 @@ Infographic - a visual presentation or collection of imagery, charts, and minima
 
 ## Contact
 
-Greenacres 5086, <br>
+Greenacres 5086, <br>                                               
 Adelaide SA <br>
 amanp4969@gmail.com <br>
 0469 013 246
+
+<div id="Contact">
+  <h2>Send me message:</h2>
+  <div id="Contact-from">
+    <style>
+      .email{
+      width: 20%;
+        height: 40px;
+        padding: 10px;
+        border: 3px dashed #8ebf42;
+        background-color: #d0e2bc;
+        font: 1.1em/1.4em cursive;
+        color: #095484;
+      }
+      .message{
+        width: 40%;
+        height: 100px;
+        padding: 10px;
+        border: 3px dashed #8ebf42;
+        background-color: #d0e2bc;
+        font: 1.4em/1.6em cursive;
+        color: #095484;
+      }
+    </style>
+<form
+  action="https://formspree.io/f/mwkwrkqr"
+  method="POST"
+>
+  <input type="hidden" name="_subject" value="Contact request from personal website" />
+                <input type="email" class="email" name="_replyto" placeholder="Your email" required><br>
+                <textarea class= "message" name="message" placeholder="Type your message" required></textarea><br>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </div>
 
 [Connect me on LinkedIn](https://www.linkedin.com/in/preet-aman-kaur?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bm%2B56s6jSTvmnNyROwUuntw%3D%3D)
 
