@@ -86,7 +86,6 @@ Infographic - a visual presentation or collection of imagery, charts, and minima
 
 
 ## Contact
-
 Greenacres 5086, <br>                                               
 Adelaide SA <br>
 amanp4969@gmail.com <br>
