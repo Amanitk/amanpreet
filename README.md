@@ -96,7 +96,7 @@ amanp4969@gmail.com <br>
       width: 20%;
         height: 40px;
         padding: 10px;
-        border: 3px black;
+        border: 3px dashed black;
         background-color: white;
         font: 1.1em/1.4em cursive;
         color: black;
@@ -105,7 +105,7 @@ amanp4969@gmail.com <br>
       width: 20%;
         height: 40px;
         padding: 10px;
-        border: 3px black;
+        border: 3px dashed black;
         background-color: white;
         font: 1.1em/1.4em cursive;
         color: black;
@@ -114,7 +114,7 @@ amanp4969@gmail.com <br>
         width: 40%;
         height: 100px;
         padding: 10px;
-        border: 3px black;
+        border: 3px dashed black;
         background-color: white;
         font: 1.4em/1.6em cursive;
         color: black;
