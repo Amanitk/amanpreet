@@ -73,9 +73,6 @@ Taking a different angle can give you a fresh boost of confidence if you're feel
 
 ![Finding a job MindMap](https://user-images.githubusercontent.com/48699383/101298391-a8439180-387d-11eb-833d-9678c4089c4b.PNG)
 
-
-
-
 ## Infographic 
 
 Infographic - a visual presentation or collection of imagery, charts, and minimal text that gives an easy-to-understand overview of a topic. Below is a work on infograpics - Code of Conduct and Tips on running effective meetings.
@@ -86,7 +83,7 @@ Infographic - a visual presentation or collection of imagery, charts, and minima
 
 
 ## Contact
-Greenacres 5086, <br>                                               
+Greenacres 5086,                                                
 Adelaide SA <br>
 amanp4969@gmail.com <br>
 0469 013 246
