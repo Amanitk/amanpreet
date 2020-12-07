@@ -86,7 +86,11 @@ Infographic - a visual presentation or collection of imagery, charts, and minima
 
 
 ## Contact
-[Click here to reach me](https://github.com/Amansanghera/amanpreet.github.io/wiki/How-to-reach-me:)
+
+Greenacres 5086, <br>
+Adelaide SA <br>
+amanp4969@gmail.com <br>
+0469 013 246
 
 [Connect me on LinkedIn](https://www.linkedin.com/in/preet-aman-kaur?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bm%2B56s6jSTvmnNyROwUuntw%3D%3D)
 
