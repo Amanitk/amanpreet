@@ -69,7 +69,10 @@ Whether you're a fresh graduate or someone who's been in the job market for year
 
 Taking a different angle can give you a fresh boost of confidence if you're feeling in a rut, and hopefully land you that opportunity you've been searching for. <br>
 
-[Finding a job MindMap.PNG] (https://github.com/Amansanghera/amanpreet/blob/main/Finding%20a%20job%20MindMap.PNG)
+![Finding a job MindMap](https://user-images.githubusercontent.com/48699383/101298391-a8439180-387d-11eb-833d-9678c4089c4b.PNG)
+
+
+
 
 ## Infographic on Meeting tips
 [Meeting Tips.pdf](https://github.com/Amansanghera/amanpreet.github.io/files/5613905/Meeting.Tips.pdf)
