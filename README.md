@@ -60,10 +60,10 @@ North Adelaide, South Australia
 
 ## Posts
 
-1. [Art of Innovation](https://github.com/Amansanghera/amanpreet.github.io/wiki/Art-of-Innovation)
+[Art of Innovation](https://github.com/Amansanghera/amanpreet.github.io/wiki/Art-of-Innovation)
 
 
-2. [How to innovate](https://github.com/Amansanghera/amanpreet/wiki/How-to-innovate....)
+[How to innovate](https://github.com/Amansanghera/amanpreet/wiki/How-to-innovate....)
 
 ## Important steps for finding a job
 
