@@ -65,9 +65,9 @@ North Adelaide, South Australia
 2. [Reflect on the promotional strategies the company uses to market coffee product](https://github.com/Amansanghera/amanpreet.github.io/wiki/Reflect-on-the-promotional-strategies-the-company-uses-to-market-coffee-product)
 
 ## Important steps for finding a job
-Whether you're a fresh graduate or someone who's been in the job market for years – job hunting is tough. Have you tried rethinking your approach?<br>
-Sometimes, it can be helpful to take a step back and really think about your approach before bashing out the job applications.<br>
-Taking a different angle can give you a fresh boost of confidence if you're feeling in a rut, and hopefully land you that opportunity you've been searching for.
+Whether you're a fresh graduate or someone who's been in the job market for years – job hunting is tough. Have you tried rethinking your approach? Sometimes, it can be helpful to take a step back and really think about your approach before bashing out the job applications.<br>
+
+Taking a different angle can give you a fresh boost of confidence if you're feeling in a rut, and hopefully land you that opportunity you've been searching for. <br>
 [Finding a job MindMap.PNG] (https://github.com/Amansanghera/amanpreet/blob/main/Finding%20a%20job%20MindMap.PNG) 
 
 ## Infographic on Meeting tips
