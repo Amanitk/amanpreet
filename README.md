@@ -93,18 +93,18 @@ amanp4969@gmail.com <br>
   <div id="Contact-from">
     <style>
       .name{
-      width: 10%;
-        height: 5px;
-        padding: 60px;
+      width: 20%;
+        height: 40px;
+        padding: 10px;
         border: 3px dashed black;
         background-color: white;
         font: 1.1em/1.4em cursive;
         color: black;
       }
       .email{
-      width: 10%;
-        height: 5px;
-        padding: 60px;
+      width: 20%;
+        height: 40px;
+        padding: 10px;
         border: 3px dashed black;
         background-color: white;
         font: 1.1em/1.4em cursive;
