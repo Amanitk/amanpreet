@@ -93,7 +93,7 @@ amanp4969@gmail.com <br>
   <div id="Contact-from">
     <style>
       .name{
-      width: 20%;
+      width: 10%;
         height: 5px;
         padding: 60px;
         border: 3px dashed black;
@@ -102,7 +102,7 @@ amanp4969@gmail.com <br>
         color: black;
       }
       .email{
-      width: 20%;
+      width: 10%;
         height: 5px;
         padding: 60px;
         border: 3px dashed black;
