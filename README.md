@@ -94,8 +94,8 @@ amanp4969@gmail.com <br>
     <style>
       .name{
       width: 20%;
-        height: 10px;
-        padding: 40px;
+        height: 5px;
+        padding: 60px;
         border: 3px dashed black;
         background-color: white;
         font: 1.1em/1.4em cursive;
@@ -103,8 +103,8 @@ amanp4969@gmail.com <br>
       }
       .email{
       width: 20%;
-        height: 40px;
-        padding: 10px;
+        height: 5px;
+        padding: 60px;
         border: 3px dashed black;
         background-color: white;
         font: 1.1em/1.4em cursive;
