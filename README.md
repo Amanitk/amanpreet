@@ -62,7 +62,7 @@ North Adelaide, South Australia
 1. [Art of Innovation](https://github.com/Amansanghera/amanpreet.github.io/wiki/Art-of-Innovation)
 
 
-2. [How to innovate] (https://github.com/Amansanghera/amanpreet/wiki/How-to-innovate....)
+2. [How to innovate](https://github.com/Amansanghera/amanpreet/wiki/How-to-innovate....)
 
 ## Important steps for finding a job
 Whether you're a fresh graduate or someone who's been in the job market for years – job hunting is tough. Have you tried rethinking your approach? Sometimes, it can be helpful to take a step back and really think about your approach before bashing out the job applications.<br>
