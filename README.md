@@ -87,3 +87,5 @@ Infographic - a visual presentation or collection of imagery, charts, and minima
 
 ## Contact
 [Click here to reach me](https://github.com/Amansanghera/amanpreet.github.io/wiki/How-to-reach-me:)
+
+[Find me on LinkedIn](https://www.linkedin.com/in/preet-aman-kaur?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bm%2B56s6jSTvmnNyROwUuntw%3D%3D)
