@@ -65,6 +65,7 @@ North Adelaide, South Australia
 2. [How to innovate](https://github.com/Amansanghera/amanpreet/wiki/How-to-innovate....)
 
 ## Important steps for finding a job
+
 Whether you're a fresh graduate or someone who's been in the job market for years – job hunting is tough. Have you tried rethinking your approach? Sometimes, it can be helpful to take a step back and really think about your approach before bashing out the job applications.<br>
 
 Taking a different angle can give you a fresh boost of confidence if you're feeling in a rut, and hopefully land you that opportunity you've been searching for. <br>
@@ -74,7 +75,10 @@ Taking a different angle can give you a fresh boost of confidence if you're feel
 
 
 
-## Infographic on Meeting tips
+## Infographic 
+
+Infographic - a visual presentation or collection of imagery, charts, and minimal text that gives an easy-to-understand overview of a topic. Below is a work on infograpics - Code of Conduct and Tips on running effective meetings.
+
 [Meeting Tips.pdf](https://github.com/Amansanghera/amanpreet.github.io/files/5613905/Meeting.Tips.pdf)
 
 
