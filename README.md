@@ -125,8 +125,8 @@ amanp4969@gmail.com <br>
   method="POST"
 >
   <input type="hidden" name="_subject" value="Contact request from personal website" />
-                <input type="name" class="name" name="_replyto" placeholder="Your name" required><br> 
-                <input type="email" class="email" name="_replyto" placeholder="Your email" required><br>
+                <input type="name" class="name" name="_replyto" placeholder="Name" required><br> 
+                <input type="email" class="email" name="_replyto" placeholder="Email" required><br>
                 <textarea class= "message" name="message" placeholder="Type your message" required></textarea><br>
                 <button type="submit">Send</button>
             </form>
