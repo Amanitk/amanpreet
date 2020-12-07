@@ -5,6 +5,7 @@
 ## Amanpreet Kaur
 Graduated with Master of Information technology from Flinders University and currently pursuing Professional Year from Navitas. I have experience of using Microsoft office 365, Google slides and connecting people by using different communication platforms. I believe in constant learning and enjoy working with people to gain different perspectives.
 
+Currently, I am working as a care worker in Helping Hand. Excitedly, I am looking for a role as an IT Help Desk Support to serve clients with technical knowledge.
 ## Resume
 [Resume.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amansanghera/amanpreet/main/Resume.pdf)
 
