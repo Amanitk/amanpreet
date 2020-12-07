@@ -80,10 +80,9 @@ Taking a different angle can give you a fresh boost of confidence if you're feel
 
 Infographic - a visual presentation or collection of imagery, charts, and minimal text that gives an easy-to-understand overview of a topic. Below is a work on infograpics - Code of Conduct and Tips on running effective meetings.
 
-[Code of Conduct.pdf](https://github.com/Amansanghera/amanpreet/files/5649899/Code.of.Conduct.pdf)
+[Code of Conduct.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amansanghera/amanpreet/main/Code.of.Conduct.pdf)
 
-[Meeting Tips.pdf](https://github.com/Amansanghera/amanpreet.github.io/files/5613905/Meeting.Tips.pdf)
-
+[Meeting Tips.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amansanghera/amanpreet/main/Meeting.Tips.pdf)
 
 
 ## Contact
