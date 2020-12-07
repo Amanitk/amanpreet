@@ -69,7 +69,7 @@ Whether you're a fresh graduate or someone who's been in the job market for year
 Sometimes, it can be helpful to take a step back and really think about your approach before bashing out the job applications.<br>
 Taking a different angle can give you a fresh boost of confidence if you're feeling in a rut, and hopefully land you that opportunity you've been searching for.
 [Finding a job MindMap.PNG] (https://github.com/Amansanghera/amanpreet/blob/main/Finding%20a%20job%20MindMap.PNG) <br>
-[] (https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amansanghera/amanpreet/main/Finding%20a%20job%20MindMap.PNG)
+[Finding a job MindMap.PNG] (https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amansanghera/amanpreet/main/Finding%20a%20job%20MindMap.PNG)
 
 
 
