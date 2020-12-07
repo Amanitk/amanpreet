@@ -94,7 +94,7 @@ amanp4969@gmail.com <br>
     <style>
       .name{
       width: 20%;
-        height: 40px;
+        height: 10px;
         padding: 40px;
         border: 3px dashed black;
         background-color: white;
