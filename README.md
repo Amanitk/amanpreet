@@ -30,6 +30,8 @@ DGC, Punjab, INDIA
 
 * Using communication platforms
 
+* Active Directory
+
 * Data Entry
 
 * Data visualisation
