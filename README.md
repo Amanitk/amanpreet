@@ -11,7 +11,7 @@ Currently, I am working as a care worker in Helping Hand. Excitedly, I am lookin
 
 
 ## Education:
-* April 2020 – Mar 2020(expected): Professional Year Program <br>
+* April 2020 – Mar 2021(expected): Professional Year Program <br>
 Navitas Professional Adelaide, South Australia
 
 * Feb 2018 – Mar 2020: Master of Information Technology <br>
